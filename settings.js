@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94711333235']
-global.premium = ['94711333235']
-global.ownernomer = '94711333235'
+global.premium = ['94787992853']
+global.ownernomer = '94787992853'
 global.ownername = '✰⃪☘ₛͥₑͣₓ⃪ͫᵞᴋɪɴɢ☇ᴋᴀᴅᴀғɪ🌙⃯™'
 global.botname = 'Kadafi[ushara]'
 global.footer = '©NexusNwInc.'
